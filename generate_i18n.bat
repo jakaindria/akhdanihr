@@ -1,0 +1,1 @@
+yii message/extract @app/config/i18n.php
