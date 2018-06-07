@@ -1,0 +1,21 @@
+{
+  "name": "akhdanihr",
+  "homepage": "https://github.com/jakaindria/akhdanihr",
+  "description": "Akhdani HR Management System",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower-asset",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  "jquery": "^3.3.1",
+  "bootstrap": "3.3.7",
+  "font-awesome": "^5.0.13",
+  "nprogress": "^0.2.0",
+  "animate.css": "^3.5.2"
+}
+}
